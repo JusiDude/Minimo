@@ -1,9 +1,6 @@
 * {
   margin: 0;
 }
-body {
-    /* overflow-x: hidden;  */
-  }
 a{
     text-decoration: none;
     color: grey;
@@ -202,12 +199,6 @@ footer{
     background-color: lightgray;
     padding: 50px 100px 0px 100px;
 }
-
-
-
-
-
-
 .slider {
     width: 100%;
    
